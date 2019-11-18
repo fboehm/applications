@@ -2,6 +2,7 @@
 title: "README"
 author: "Frederick J. Boehm"
 date: "11/8/2019"
-output: html_document
+output: github_document
 ---
 
+Abstract for submission to TAGC 2020. https://genetics-gsa.org/tagc-2020/
