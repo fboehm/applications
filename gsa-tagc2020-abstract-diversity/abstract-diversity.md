@@ -1,9 +1,10 @@
 Enhancing inclusion of diverse students by training future educators
 ================
-Frederick J. Boehm, Ana Dyreson,
+Frederick J. Boehm, Ana C. Dyreson, Donald Gillian-Daniel, Brett R.
+Nachman, Edmond Ramly, Katherine M. Robiadek
 11/8/2019
 
-Last modified: 2019-11-18 09:51:10.
+Last modified: 2019-11-19 10:14:28.
 
 We present a curriculum for a diversity-promoting professional
 development course for future college instructors. We implemented the
