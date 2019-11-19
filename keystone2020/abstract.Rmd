@@ -1,6 +1,5 @@
 ---
-title: Leveraging genetically diverse mice to identify genes that affect tuberculosis
-  susceptibility
+title: Leveraging genetically diverse mice to identify genes that affect tuberculosis susceptibility
 author: "Frederick J. Boehm"
 date: "9/19/2019"
 output:
