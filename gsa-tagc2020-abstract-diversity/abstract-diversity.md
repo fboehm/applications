@@ -4,17 +4,18 @@ Frederick J. Boehm, Ana C. Dyreson, Donald L. Gillian-Daniel, Brett R.
 Nachman, Edmond S. Ramly, Katherine M. Robiadek, Janaina M. Saad
 11/8/2019
 
-Last modified: 2019-11-19 13:16:33.
+Last modified: 2019-11-21 09:26:13.
 
 We present a curriculum for a diversity-promoting professional
-development course for future college instructors. We implemented the
-curriculum in both in-person and online formats. Weekly class meetings
-focused on activities and discussions of teaching practices that
-encourage and support the increasingly diverse student body in higher
-education. Topics included understanding the dimensions of diversity,
-practicing strategies to combat microaggressions in real time, reviewing
-pedagological approaches to support inclusivity, and exploring data and
-research to support classroom practices. By targeting our classes at
-current graduate students who wish to become professors, we aim to
-effect institutional change over many years. We conclude the
+development graduate course for future college instructors. We
+implemented the curriculum in both in-person and online formats. Weekly
+class meetings focused on activities and discussions of teaching
+practices that encourage and support the persistence and academic
+success of the increasingly diverse student body in higher education.
+Topics included understanding the dimensions of diversity, practicing
+strategies to combat microaggressions in real time, reviewing
+pedagogical approaches to support inclusivity, and exploring data and
+research to support inclusive classroom practices. By targeting our
+classes at current graduate students who plan to become professors, we
+aim to effect institutional change over many years. We conclude the
 presentation with lessons learned and future directions.
