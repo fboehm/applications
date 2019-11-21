@@ -1,10 +1,11 @@
 ---
-title: Leveraging genetically diverse mice to identify genes that affect tuberculosis susceptibility
+title: Leveraging genetically diverse mice to identify host genes that affect tuberculosis susceptibility
 author: "Frederick J. Boehm"
 date: "9/19/2019"
 output:
   pdf_document: default
   html_document: default
+  github_document: default
 ---
 
 Quantitative genetics seeks to identify genes that contribute to phenotypic 
@@ -17,7 +18,7 @@ of mice from the Diversity Outbred and Collaborative Cross populations. We
 develop a QTL mapping framework for integrating genotypic and phenotypic data 
 from these two mouse populations. We draw on genetic strengths of each 
 population, high recombination counts and high heterozygosity levels in Diversity 
-Outbred mice and high levels of homogyzosity in Collaborative Cross mice, to 
+Outbred mice and reproducibility of Collaborative Cross mice, to 
 examine the genetic underpinnings of tuberculosis susceptibility. Statistical 
 power to detect QTL is greater with the combined (Diversity Outbred and 
 Collaborative Cross) analysis and, thus, our methods refine and extend previous 
