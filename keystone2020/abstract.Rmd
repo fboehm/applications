@@ -1,6 +1,6 @@
 ---
 title: Leveraging genetically diverse mice to identify host genes that affect tuberculosis susceptibility
-author: "Frederick J. Boehm"
+author: "Frederick J. Boehm, Clare M. Smith, Christopher M. Sassetti"
 date: "9/19/2019"
 output:
   pdf_document: default
@@ -8,20 +8,19 @@ output:
   github_document: default
 ---
 
-Quantitative genetics seeks to identify genes that contribute to phenotypic 
-variation in populations. Recent development of multiparental mouse populations 
+One aim of quantitative genetics is to identify genetic variants that influence 
+phenotypic variations in disease-related traits. 
+Recent development of multiparental mouse populations, 
+which incorporate DNA from more than two founders,
 has renewed research interest in linkage mapping methods, such as quantitative 
 trait locus (QTL) mapping. The *Mycobacterium tuberculosis* research community is 
 uniquely positioned to leverage genetic and molecular trait data from diverse 
 mouse populations. Multiple research teams have genotyped and phenotyped hundreds 
 of mice from the Diversity Outbred and Collaborative Cross populations. We 
 develop a QTL mapping framework for integrating genotypic and phenotypic data 
-from these two mouse populations. We draw on genetic strengths of each 
+from these two mouse populations. We draw on strengths of each 
 population, high recombination counts and high heterozygosity levels in Diversity 
-Outbred mice and reproducibility of Collaborative Cross mice, to 
-examine the genetic underpinnings of tuberculosis susceptibility. Statistical 
-power to detect QTL is greater with the combined (Diversity Outbred and 
-Collaborative Cross) analysis and, thus, our methods refine and extend previous 
-QTL mapping studies of tuberculosis-related traits.
+Outbred mice and genetic reproducibility of Collaborative Cross mice, to 
+examine tuberculosis susceptibility.
 
 
