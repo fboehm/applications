@@ -1,10 +1,11 @@
 Enhancing inclusion of diverse students by training future educators
 ================
 Frederick J. Boehm, Ana C. Dyreson, Donald L. Gillian-Daniel, Brett R.
-Nachman, Edmond S. Ramly, Katherine M. Robiadek, Janaina M. Saad
+Nachman, Sara Paris, Edmond S. Ramly, Katherine M. Robiadek, Janaina M.
+Saad
 11/8/2019
 
-Last modified: 2019-11-21 09:26:13.
+Last modified: 2019-11-27 09:15:33.
 
 We present a curriculum for a diversity-promoting professional
 development graduate course for future college instructors. We

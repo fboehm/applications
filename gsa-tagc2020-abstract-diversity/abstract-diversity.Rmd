@@ -1,6 +1,6 @@
 ---
 title: "Enhancing inclusion of diverse students by training future educators"
-author: "Frederick J. Boehm, Ana C. Dyreson, Donald L. Gillian-Daniel, Brett R. Nachman, Edmond S. Ramly, Katherine M. Robiadek, Janaina M. Saad"
+author: "Frederick J. Boehm, Ana C. Dyreson, Donald L. Gillian-Daniel, Brett R. Nachman, Sara Paris, Edmond S. Ramly, Katherine M. Robiadek, Janaina M. Saad"
 date: "11/8/2019"
 output: github_document
 params:
