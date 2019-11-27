@@ -1,7 +1,7 @@
 Enhancing QTL detection power in multiparental populations
 ================
 
-Last modified: 2019-11-27 10:25:11.
+Last modified: 2019-11-27 10:47:34.
 
 We present a strategy to enhance power to detect QTL in multiparental
 populations. We demonstrate our approach in studies with Diversity

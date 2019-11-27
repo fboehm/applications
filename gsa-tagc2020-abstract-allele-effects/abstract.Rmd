@@ -1,6 +1,6 @@
 ---
 title: "Enhancing QTL detection power in multiparental populations"
-authors: "Frederick J. Boehm, Clare M. Smith, Daniel M. Gatti, Michael Kiritsy, Sherry Kurtz, Karen Elkins, Gillian Beamer, Christopher M. Sassetti"
+authors: "Frederick J. Boehm, Clare M. Smith, Megan Proulx, Daniel M. Gatti, Michael Kiritsy, Sherry Kurtz, Karen Elkins, Gillian Beamer, Christopher M. Sassetti"
 output: 
   github_document: default
   pdf_document: default

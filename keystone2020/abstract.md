@@ -1,7 +1,8 @@
 Mapping tuberculosis-related traits in multiparental mouse populations
 ================
-Frederick J. Boehm, Clare M. Smith, Daniel M. Gatti, Michael Kiritsy,
-Sherry Kurtz, Karen Elkins, Gillian Beamer, Christopher M. Sassetti
+Frederick J. Boehm, Clare M. Smith, Megan Proulx, Daniel M. Gatti,
+Michael Kiritsy, Sherry Kurtz, Karen Elkins, Gillian Beamer, Christopher
+M. Sassetti
 11/26/2019
 
 One aim of quantitative genetics is to identify genetic variants that
