@@ -5,7 +5,7 @@ Nachman, Sara Paris, Edmond S. Ramly, Katherine M. Robiadek, Janaina M.
 Saad
 11/8/2019
 
-Last modified: 2019-11-27 09:15:33.
+Last modified: 2019-11-27 09:24:53.
 
 We present a curriculum for a diversity-promoting professional
 development graduate course for future college instructors. We
