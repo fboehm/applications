@@ -1,7 +1,9 @@
 ---
 title: "Enhancing QTL detection power in multiparental populations"
-authors: "Frederick J. Boehm, Clare M. Smith, Christopher M. Sassetti"
-output: github_document
+authors: "Frederick J. Boehm, Clare M. Smith, Daniel M. Gatti, Michael Kiritsy, Sherry Kurtz, Karen Elkins, Gillian Beamer, Christopher M. Sassetti"
+output: 
+  github_document: default
+  pdf_document: default
 params: 
   lastmod: !r lubridate::now()
 ---
@@ -9,11 +11,11 @@ params:
 Last modified: `r params$lastmod`.
 
 We present a strategy to enhance power to detect QTL in multiparental 
-populations. We demonstrate our approach in studies from Diversity 
+populations. We demonstrate our approach in studies with Diversity 
 Outbred and Collaborative Cross mice. A key element in our procedure is 
 the inference of QTL allelic series in a multiparental cohort. We then 
-use the allelic series in QTL detection in a distinct cohort. In our 
-example, we identify QTL allelic series in a Collaborative Cross cohort, 
-then use that information in QTL scans in Diversity Outbred mice. 
-
-
+use the allelic series in QTL detection in a distinct cohort. Specifically, 
+we use the inferred number of QTL alleles (which may be less than the number 
+of founders) when mapping in the second cohort. We complement our analyses with 
+simluation studies in which we know the true allelic series. We 
+also discuss implications for experimental design with multiparental populations.
