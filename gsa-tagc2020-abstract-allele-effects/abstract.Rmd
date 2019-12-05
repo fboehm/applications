@@ -2,7 +2,6 @@
 title: "Enhancing QTL detection power in multiparental populations"
 authors: "Frederick J. Boehm, Clare M. Smith, Megan Proulx, Daniel M. Gatti, Michael Kiritsy, Sherry Kurtz, Karen Elkins, Gillian Beamer, Christopher M. Sassetti"
 output: 
-  github_document: default
   pdf_document: default
 params: 
   lastmod: !r lubridate::now()
@@ -15,5 +14,5 @@ and allele effect information for individual traits in one population to increas
 associations in the same population or a second multiparental cohort.  We demonstrate our approach in 
 studies with Diversity Outbred (DO) and Collaborative Cross (CC) mice. We complement our analyses with 
 simluation studies to assess statistical power to detect QTL. We discuss applications for this approach 
-in high-dimensional expression QTL studies and for joint analysis of CC and DO populations. 
+in high-dimensional expression QTL studies and for joint analysis of CC and DO mice. 
 
