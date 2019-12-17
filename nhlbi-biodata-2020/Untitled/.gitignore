@@ -1,0 +1,5 @@
+*.out
+*.aux
+boehm-biosketch.tex
+yourbibfile.bib
+
