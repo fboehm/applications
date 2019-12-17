@@ -20,27 +20,6 @@ education:
     school: "University of Wisconsin-Madison"
     date: "5/2019"
     field: "Statistics"
-researchsupport:
-  ongoing:
-    - grant: "NIH R01 Numbers"
-      pi: "You Are"
-      dates: "Still Happening"
-      title: "Life Changing Grant"
-      description: "This is the stuff we are doing"
-      role: "PI"
-    - grant: "NIH R01 Numbers 2"
-      pi: "You Are Also"
-      dates: "Still Happening Also"
-      title: "Life Changing Grant Also"
-      description: "This is the stuff we are also doing"
-      role: "PI"
-  completed:
-    - grant: "NIH R01 Numbers"
-      pi: "You Were"
-      dates: "Over"
-      title: "Life Changing Grant Now Over"
-      description: "This is the stuff we were doing"
-      role: "PI"
 output:
   biosketchr::nih_biosketch:
     latex_engine: xelatex
