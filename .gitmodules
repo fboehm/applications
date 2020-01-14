@@ -1,6 +1,3 @@
 [submodule "cv"]
 	path = cv
 	url = https://github.com/fboehm/cv.git
-[submodule "nih-biosketch"]
-	path = nih-biosketch
-	url = https://github.com/fboehm/nih-biosketch
