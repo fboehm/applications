@@ -6,5 +6,5 @@ Suggested earliest start date is Dec 2020 per https://www.nigms.nih.gov/training
 
 - :heavy_check_mark: Biosketch
 
-- :black_square: Specific aims
+- :black_square_button: Specific aims
 
