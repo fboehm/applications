@@ -9,7 +9,6 @@ Suggested earliest start date is Dec 2020 per https://www.nigms.nih.gov/training
     - :black_square_button: Positions and honors
     - :black_square_button: Publications
     - :black_square_button: Scholastic performance
-    - :black_square_button: Project summary
 
 
 
