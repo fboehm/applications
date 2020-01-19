@@ -1,0 +1,12 @@
+---
+output: bookdown::pdf_document2
+toc: false
+params:
+  lastmod: !r lubridate::now()
+---
+
+Last modified: `r params$lastmod`.
+
+RESEARCH STRATEGY
+
+
