@@ -1,30 +1,64 @@
 ---
-title: "Specific aims"
-author: "Frederick J. Boehm"
-date: "1/15/2020"
-output: html_document
+output: bookdown::pdf_document2
+toc: false
 params:
   lastmod: !r lubridate::now()
 ---
 
 Last modified: `r params$lastmod`.
 
+SPECIFIC AIMS
+
 **Specific Aim 1.** 
-Design and implement new biostatistical methods for parametric bayesian 
-inference of allelic series at established QTL in multiparental 
-populations. 
 
-A lynchpin in this aim is development of a Markov chain monte carlo sampler for inferring allelic series at known QTL with parametric bayes methods. MCMC methods are notoriously computationally intensive and may demonstrate poor mixing, especially in the case of reversible jump MCMC. To circumvent known issues with trans-dimensional reversible jump MCMC methods, we propose to translate methods of Yi et al to our setting. [Explain Yi's models]
+*Design and implement new biostatistical methods for parametric bayesian inference of allelic series at established QTL in multiparental populations.* 
 
-Note that we know the true upper limit for the number of alleles, since it is merely the number of founder lines.
+A lynchpin in this aim is development of a Markov chain monte carlo 
+sampler for inferring allelic series at known QTL with parametric 
+bayes methods. MCMC methods are notoriously computationally 
+intensive and may demonstrate poor mixing, especially in the case of 
+reversible jump MCMC. To circumvent known issues with 
+trans-dimensional reversible jump MCMC methods, we propose to 
+translate methods of Yi et al to our setting. [Explain Yi's models]
+
+Note that we know the true upper limit for the number of alleles, 
+since it is merely the number of founder lines.
 
 
 
 
 **Specific Aim 2.** 
 
+*Apply allelic series inferences to traits from Diversity Outbred and Collaborative Cross mice.* 
+
+We first will perform simulation studies to characterize QTL detection power 
+enhancements with allelic series-informed mapping. We then will apply our 
+methods to gene expression traits in Diversity Outbred and Collaborative Cross 
+mice.
+
+
 
 
 **Specific Aim 3.** 
+
+*Create and share an open-source software package that implements our methods.* 
+
+We will create and share a user-friendly, open-source R software package. 
+We will share publicly our package via Github. 
+The R package will contain both functions that execute our new 
+methods and code to reproduce all analyses from Specific Aim 2. Additionally,
+we will create a website that hosts and documents our software.
+To encourage durability of our software and methods, we'll use Docker 
+to execute our analyses and test our code. We will share the Docker 
+images via Dockerhub.
+
+
+
+
+
+
+
+
+tutorials, examples, reproducible analyses, Docker, R, Rmarkdown, website for software.
 
 
