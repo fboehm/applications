@@ -11,19 +11,11 @@ Suggested earliest start date is Dec 2020 per https://www.nigms.nih.gov/training
     - :black_square_button: Scholastic performance
 
 
-
-
-
-
-
 - :black_square_button: Project summary/abstract (30 lines of text)
-
-
 
 - :black_square_button: Project narrative (3 sentences)
 
 - :black_square_button: Bibliography 
-
 
 - :black_square_button: Specific aims (1 page)
 
