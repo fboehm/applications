@@ -39,6 +39,12 @@ Suggested earliest start date is Dec 2020 per https://www.nigms.nih.gov/training
 https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/page-limits.htm#fell
 
 
+## Ideas
+
+Where to put professional development activities??
+
+*respective contributions, goals for this fellowship, activities planned under this award*
+
 
 
 

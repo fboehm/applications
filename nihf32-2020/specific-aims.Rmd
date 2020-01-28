@@ -10,7 +10,7 @@ params:
 
 # SPECIFIC AIMS
 
-**Specific Aim 1.** *METHODS DEVELOPMENT: Design and implement new biostatistical methods for parametric bayesian inference of allelic series at established QTL in multiparental populations.* 
+**Specific Aim 1.** *METHODS: Design and implement new biostatistical methods for parametric bayesian inference of allelic series at established QTL in multiparental populations.* 
 
 New biostatistical methods are needed for allelic series inference in QTL mapping.
 We define allelic series to be both the number of alleles and the allocation of each allele to each founder.
@@ -49,8 +49,7 @@ methods to gene expression traits in Diversity Outbred and Collaborative Cross
 mice. In so doing, we will draw on strengths of both the Collaborative Cross (genetic reproducibility) and 
 Diversity Outbred (high heterozygosity levels and small mean haplotype length) mice. Specifically, we'll 
 leverage the small average haplotype size 
-in the Diversity Outbred mice to identify a narrow genomic region that contains a QTL of 
-interest. For each QTL in the Diversity Outbred, we'll use our methods from Aim 1 to infer allelic series. 
+in the Diversity Outbred mice to identify a narrow genomic region that contains a QTL. For each QTL in the Diversity Outbred, we'll use our methods from Aim 1 to infer allelic series. 
 Because the Collaborative Cross and the Diversity Outbred mice share the same set of founder alleles, we can 
 transfer knowledge about QTL between the two cohorts. If we know the allelic series for a single QTL in the 
 Diversity Outbred mice, then we automatically know the allelic series for the same QTL in the Collaborative 
@@ -66,7 +65,7 @@ Diversity Outbred and Collaborative Cross mice.
 
 
 
-**Specific Aim 3.** *OPEN SOURCE SOFTWARE: Create and share an open-source software package that implements our methods.* 
+**Specific Aim 3.** *SOFTWARE: Create and share an open-source software package that implements our methods.* 
 
 We will create and share a user-friendly, open-source R software package. 
 We will share publicly our package via Github. 
@@ -76,6 +75,11 @@ we will create a website that hosts and documents our software.
 To encourage durability of our software and methods, we'll use Docker 
 to execute our analyses and test our code. We will share the Docker 
 images via Dockerhub.
+
+Sharing our software offers the opportunity for our work to reach a larger audience 
+and to have a greater impact than it otherwise would have.
+
+
 
 
 
