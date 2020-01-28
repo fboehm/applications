@@ -1,18 +1,12 @@
 ---
-toc: false
 output: 
   bookdown::pdf_document2:
     number_sections: false
-    includes:
-      in_header: in_header.tex
+toc: false
 params:
   lastmod: !r lubridate::now()
 ---
 
-
-\fancyhead[LO,LE]
-
-
-# RESEARCH STRATEGY
+# PROJECT NARRATIVE
 
 
