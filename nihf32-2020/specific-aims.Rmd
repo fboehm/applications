@@ -49,8 +49,11 @@ transfer knowledge about QTL between the two cohorts. If we know the allelic ser
 Diversity Outbred mice, then we automatically know the allelic series for the same QTL in the Collaborative 
 Cross. We thus may use the allelic series that we inferred in analyses of Diversity Outbred mice to gain power when mapping QTL in Collaborative Cross mice.
 
-We choose to demonstrate our approach with gene expression traits because of their availability in both 
-Diversity Outbred and Collaborative Cross mice.
+A second area of application is in multivariate QTL mapping and tests of pleiotropy vs. separate QTL. We previously 
+developed a multivariate mapping strategy that allows for eight alleles at every locus. Allelic series inferences 
+for each of the univariate traits in a multivariate analysis would enable gains in statistical power to distinguish 
+separate QTL from pleiotropy. 
+
 
 
 **Specific Aim 3.** *SOFTWARE: Create and share an open-source software package that implements our methods.* 
