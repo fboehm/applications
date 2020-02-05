@@ -1,7 +1,7 @@
 # F32 application, April 8 2020
 
-Aim for start date of Jan 1, 2021 and end date Dec 31, 2021.
-Suggested earliest start date is Dec 2020 per https://www.nigms.nih.gov/training/indivpostdoc/pages/postdocfellowsfaq.aspx. Or maybe start date Dec 1, 2020??? Since I have 13 months of funding eligibility.
+Aim for start date of Dec 1, 2020 and end date Dec 31, 2021.
+Suggested earliest start date is Dec 2020 per https://www.nigms.nih.gov/training/indivpostdoc/pages/postdocfellowsfaq.aspx. Since I have 13 months of funding eligibility.
 
 
 - :black_square_button: Biosketch (5 pages)

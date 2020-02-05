@@ -23,11 +23,9 @@ allows for eight allelic effects parameters is fitting too many parameters and, 
 less powerful compared to a model that fits the true number of alleles after accounting for allelic series.
 
 To overcome this problem, we propose to develop Bayesian statistical methods to infer allelic series at detected QTL. Knowing the allelic 
-series offers multiple scientific benefits. First, in followup studies in cohorts with the same set of 
-alleles (Collaborative Cross and Diversity Outbred mice, for example), our approach offers more statistical power when replicating QTL detection. 
+series offers multiple scientific benefits. In followup studies in cohorts with the same set of 
+alleles (Collaborative Cross and Diversity Outbred mice, for example), our approach offers more statistical power to replicate QTL detection. 
 
-A lynchpin in this aim is development of a Markov chain monte carlo 
-sampler for Bayesian inference of allelic series at known QTL.
 
 
 **Specific Aim 2.** *APPLICATION: Apply allelic series inferences to complex traits from Diversity Outbred and Collaborative Cross mice.* 
