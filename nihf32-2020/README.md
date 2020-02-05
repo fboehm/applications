@@ -45,6 +45,9 @@ Where to put professional development activities??
 
 *respective contributions, goals for this fellowship, activities planned under this award*
 
+## To include in Specific Aims
+
+tutorials, examples, reproducible analyses, Docker, R, Rmarkdown, website for software.
 
 
 

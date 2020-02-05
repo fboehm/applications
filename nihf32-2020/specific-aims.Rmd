@@ -12,33 +12,29 @@ params:
 
 **Specific Aim 1.** *METHODS: Design and implement new biostatistical methods for parametric bayesian inference of allelic series at established QTL in multiparental populations.* 
 
-New biostatistical methods are needed for allelic series inference in QTL mapping.
+New biostatistical methods are needed for allelic series inference in systems genetics studies.
 We define allelic series to be both the number of alleles and the allocation of each allele to each founder.
 Standard QTL mapping methods permit each founder to have its own distinct allele. Thus, 
 in the case of the Diversity Outbred mouse multiparental population, which arises from 
 eight inbred founders, traditional QTL mapping allows for presence of eight distinct alleles
 at every genetic locus.
-However, many QTL have fewer than eight alleles represented among the eight founders. Thus, a model that
+However, this is suboptimal because many QTL have fewer than eight alleles represented among the eight founders. Thus, a model that
 allows for eight allelic effects parameters is fitting too many parameters and, consequentially, is 
-less powerful compared to a model that uses allelic series.
-To overcome this problem, we propose to infer allelic series at detected QTL. Knowing the allelic 
+less powerful compared to a model that fits the true number of alleles after accounting for allelic series.
+
+To overcome this problem, we propose to develop Bayesian statistical methods to infer allelic series at detected QTL. Knowing the allelic 
 series offers multiple scientific benefits. First, in followup studies in cohorts with the same set of 
-alleles (Collaborative Cross and Diversity Outbred mice, for example), we will fit statistical models 
-with the appropriate number of alleles when seeking to replicate QTL detection. Such an approach 
-enhances statistical power to detect QTL. 
+alleles (Collaborative Cross and Diversity Outbred mice, for example), our approach offers more statistical power when replicating QTL detection. 
 
 A lynchpin in this aim is development of a Markov chain monte carlo 
-sampler for inferring allelic series at known QTL with parametric 
-bayes methods. 
-
-
+sampler for Bayesian inference of allelic series at known QTL.
 
 
 **Specific Aim 2.** *APPLICATION: Apply allelic series inferences to complex traits from Diversity Outbred and Collaborative Cross mice.* 
 
 We first will perform simulation studies to characterize QTL detection power 
-enhancements with allelic series-informed mapping. We'll use Diversity Outbred and 
-Collaborative Cross mice's genotypes to simulate traits that affect a QTL. Because 
+enhancements with allelic series-informed QTL mapping. We'll use Diversity Outbred and 
+Collaborative Cross mice's genotypes to simulate traits. Because 
 the traits are simulated, we know their allelic series. We then perform two methods of QTL mapping.
 In the first, we map traits with the standard 8-allele models. Second, we use allelic series
 to restrict the number of parameters in our models. We then map the same simulated traits, with the 
@@ -49,45 +45,23 @@ methods to gene expression traits in Diversity Outbred and Collaborative Cross
 mice. In so doing, we will draw on strengths of both the Collaborative Cross (genetic reproducibility) and 
 Diversity Outbred (high heterozygosity levels and small mean haplotype length) mice. Specifically, we'll 
 leverage the small average haplotype size 
-in the Diversity Outbred mice to identify a narrow genomic region that contains a QTL. For each QTL in the Diversity Outbred, we'll use our methods from Aim 1 to infer allelic series. 
+in the Diversity Outbred mice to identify a narrow genomic region that affects a trait. For each QTL in the Diversity Outbred, we'll use our methods from Aim 1 to infer allelic series. 
 Because the Collaborative Cross and the Diversity Outbred mice share the same set of founder alleles, we can 
 transfer knowledge about QTL between the two cohorts. If we know the allelic series for a single QTL in the 
 Diversity Outbred mice, then we automatically know the allelic series for the same QTL in the Collaborative 
-Cross.
-
-
+Cross. We thus may use the allelic series that we inferred in analyses of Diversity Outbred mice to gain power when mapping QTL in Collaborative Cross mice.
 
 We choose to demonstrate our approach with gene expression traits because of their availability in both 
 Diversity Outbred and Collaborative Cross mice.
 
 
-
-
-
-
 **Specific Aim 3.** *SOFTWARE: Create and share an open-source software package that implements our methods.* 
 
-We will create and share a user-friendly, open-source R software package. 
-We will share publicly our package via Github. 
+We will create and share a user-friendly, open-source R software package and share it via Github. 
 The R package will contain both functions that execute our new 
 methods and code to reproduce all analyses from Specific Aim 2. Additionally,
-we will create a website that hosts and documents our software.
+we will create a website that hosts and documents our software. We can achieve this feat with the `pkgdown` R package. 
 To encourage durability of our software and methods, we'll use Docker 
 to execute our analyses and test our code. We will share the Docker 
 images via Dockerhub.
-
-Sharing our software offers the opportunity for our work to reach a larger audience 
-and to have a greater impact than it otherwise would have.
-
-
-
-
-
-
-
-
-
-
-tutorials, examples, reproducible analyses, Docker, R, Rmarkdown, website for software.
-
 
