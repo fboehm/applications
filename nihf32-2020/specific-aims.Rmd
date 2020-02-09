@@ -10,14 +10,35 @@ params:
 
 # SPECIFIC AIMS
 
+Multiparental populations have revolutionized systems genetics studies by incorporating
+diverse collections of genetic variants into mapping cohorts, enabling deep phenotyping, and enhancing 
+mapping resolution and biological reproducibility. Despite these developments, 
+statistical power to detect genetic loci (quantitative trait loci, QTL) that affect complex traits continues to impede advancements in fundamental
+understanding of biological processes that impact complex traits in model organisms.
+
+Two complementary mapping populations, the
+Collaborative Cross and the Diversity Outbred mice, arise from the same eight inbred 
+founder lines. They thus share the same collection of genetic variants. The two mapping cohorts 
+differ in their genetic architecture; the Collaborative Cross is a collection of about 60 inbred 
+lines, while the Diversity Outbred is a collection of highly heterozygous and genetically unique 
+mice. 
+
+We will leverage findings in Diversity Outbred mice to inform mapping studies in the
+Collaborative Cross mice. We develop a strategy to infer allelic series at a QTL 
+in Diversity Outbred mice. We then use that inferred allelic series to enhance 
+statistical power for QTL mapping in the Collaborative Cross.
+
+
+
+
+
+
+
 **Specific Aim 1.** *METHODS: Design and implement new biostatistical methods for parametric bayesian inference of allelic series at established QTL in multiparental populations.* 
 
 New biostatistical methods are needed for allelic series inference in systems genetics studies.
 We define allelic series to be both the number of alleles and the allocation of each allele to each founder.
-Standard QTL mapping methods permit each founder to have its own distinct allele. Thus, 
-in the case of the Diversity Outbred mouse multiparental population, which arises from 
-eight inbred founders, traditional QTL mapping allows for presence of eight distinct alleles
-at every genetic locus.
+Standard QTL mapping methods permit each founder to have its own distinct allele. 
 However, this is suboptimal because many QTL have fewer than eight alleles represented among the eight founders. Thus, a model that
 allows for eight allelic effects parameters is fitting too many parameters and, consequentially, is 
 less powerful compared to a model that fits the true number of alleles after accounting for allelic series.
@@ -34,7 +55,7 @@ We first will perform simulation studies to characterize QTL detection power
 enhancements with allelic series-informed QTL mapping. We'll use Diversity Outbred and 
 Collaborative Cross mice's genotypes to simulate traits. Because 
 the traits are simulated, we know their allelic series. We then perform two methods of QTL mapping.
-In the first, we map traits with the standard 8-allele models. Second, we use allelic series
+In the first, we map traits with the standard eight-allele models. Second, we use allelic series
 to restrict the number of parameters in our models. We then map the same simulated traits, with the 
 restricted models to quantify the enhancement in statistical power.
 
