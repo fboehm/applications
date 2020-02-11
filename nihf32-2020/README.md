@@ -45,9 +45,15 @@ https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/pa
 
 ## Ideas
 
-Where to put professional development activities??
+1. Where to put professional development activities??
 
 *respective contributions, goals for this fellowship, activities planned under this award*
+
+1. Work with Mtb data in both DO and CC
+
+
+
+
 
 ## To include in Specific Aims and/or Research training plan
 
