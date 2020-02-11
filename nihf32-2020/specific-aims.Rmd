@@ -18,7 +18,7 @@ understanding of biological processes that impact complex traits in model organi
 
 Two complementary mapping populations, the
 Collaborative Cross and the Diversity Outbred mice, arise from the same eight inbred 
-founder lines. They thus share the same collection of genetic variants. The two mapping cohorts 
+founder lines. They thus share the same collection of genetic variants. However, the two mapping cohorts 
 differ in their genetic architecture; the Collaborative Cross is a collection of about 60 inbred 
 lines, while the Diversity Outbred is a collection of highly heterozygous and genetically unique 
 mice. 
