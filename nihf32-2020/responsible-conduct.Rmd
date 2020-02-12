@@ -1,0 +1,60 @@
+---
+output: 
+  bookdown::word_document2:  
+    number_sections: false
+toc: false
+params:
+  lastmod: !r lubridate::now()
+---
+
+# Training in the responsible conduct of research
+
+Boehm's RCR plan will enable him to engage research ethics in a scholarly fashion. The plan has four
+components: 1) IRES fellowship application, 2) seminar participation, 3) coursework in research
+ethics, and 4) a capstone project in research ethics. These experiences extend Boehm's previous
+RCR training, which includes enrollment in a 15-week course on research ethics during the Fall 2012
+semester and enrollment in a 10-week course in ethics in stastistics from April to June 2009.
+1. IRES fellowship application. Boehm will apply for the UW-Madison's Integrating Research Ethics
+and Scholarship (IRES) fellowship program (http://www.grad.wisc.edu/ethics/iresfellows.html). He will
+submit his application for admission in June 2013. If admitted to the competitive program's small
+cohort, he will participate fully in the IRES fellowship program during the 2013-2014 academic year.
+Due the financial support of the NIH, Boehm will not receive the usual $3000 stipend for the IRES
+fellowship program. The IRES fellowship program has not yet released its 2013-2014 calendar. 2012-
+2013 fellowship events included: attend full-day retreat on August 28, 2012, meet weekly from 8:30-
+9:30 a.m. Wednesday, September 12- Wednesday November 14 (ten sessions), attend full-day retreat
+on Thursday, January 17, 2013, attend two spring brown bags presented by 4 other fellows (these
+meetings start on 8:30am to 10:30am Wednesday, January 23 and run until February 20, present a
+brown bag utilizing the activity you will use for your large event, create and implement a research
+ethics event for your department, create an ethics portfolio in which you reflect on your knowledge and
+ability to teach research ethics.
+2. Seminar participation. UW-Madison's IRES program also hosts seminars (that are open to all
+students) during the academic year. Boehm will attend all six of these per academic year for the
+entirety of his training period. Upcoming and past seminars include: Interactive Movie Night: The Lab,
+Tuesday, October 16, 2012, 4:00-5:30pm; The Ethics of Social Media Research, Tuesday, October 23,
+2012, 4:00-5:30pm; and Collaborations with Statisticians, Wednesday, December 5, 2012, 4:00-
+5:00pm. In addition to IRES seminars, Boehm will attend medical history and bioethics department
+seminars. Past and upcoming seminars of interest include: “Escaping Melodrama: The US STD
+Inoculation Studies in Guatemala and the Difficulties for an Historian”, 4pm December 3, 2012 and
+“Water Water Everywhere: Human Experiments in Drinking Seawater,” 4pm November 17, 2011.
+To learn more about recent scholarship in research ethics and to engage local scholars in this field,
+Boehm will attend annual bioethics symposiums in April 2013 and April 2014
+(http://www.med.wisc.edu/event/fourth-annual-bioethics-symposium/26544).
+3. Coursework in research ethics. Boehm will enroll in “Medical history and bioethics 545: Ethical
+and regulatory issues in clinical investigation” in September 2013. Twelve weekly meetings for 2 hours
+each will allow Boehm to “explore and examine the ethical issues central to clinical research,
+regulations governing clinical investigation, and the role of good clinical practice for clinical trials” and
+“to think critically about the ethical issues central to clinical research and know the basic elements of
+the federal regulations affecting clinical investigation.”
+(http://medhist.wisc.edu/courses/listcourses.php?year=2012&term=fall).
+4. Capstone project in research ethics. One of Boehm's major interests within RCR is the nature of
+collaborations between statisticians and non-statisticians. This interest will be the focus of his
+capstone project. He will enroll in statistics 998 “Statistical consulting” in the fall 2014 term. An old
+syllabus is in the appendix. This course addresses in detail the nature of collaborations, and will
+provide some of the relevant background for his capstone project. The heart of his capstone project
+consists of 1) preparation of a written literature review on statisticians' and non-statisticians' attitudes
+about collaborations and 2) a December 2014 public seminar that summarizes his literature review.
+With the goal of informing his seminar presentation, he will informally discuss collaborations between
+statisticians and other scientists with his colleagues in toxicology, statistics, and biostatistics. Boehm
+will devote at least 3 hours per week to the literature review and seminar preparation during the 15-
+week fall 2014 term. Michael Newton and Michael Gould will critique the literature review and seminar
+slides.

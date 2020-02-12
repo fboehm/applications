@@ -18,7 +18,7 @@ Suggested earliest start date is Dec 2020 per https://www.nigms.nih.gov/training
 - :black_square_button: Bibliography 
 
 - :black_square_button: Specific aims (1 page)
-
+  
 - :black_square_button: Research strategy (6 pages)
 
 - :black_square_button: Respective contributions (1 page)
@@ -29,9 +29,13 @@ Suggested earliest start date is Dec 2020 per https://www.nigms.nih.gov/training
 
 - :black_square_button: Goals for fellowship and career (6 pages)
 
-- :black_square_button: Activities planned under this award 
+    - :black_square_button: Training goals and objectives
 
-- :black_square_button: Doctoral dissertation and other research experience
+    - :black_square_button: Doctoral dissertation and other research experience
+
+    - :black_square_button: Activities planned under this award 
+    
+- :black_square_button: cover letter
 
 
 ## Page Limits URL
@@ -41,11 +45,17 @@ https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/pa
 
 ## Ideas
 
-Where to put professional development activities??
+1. Where to put professional development activities??
 
 *respective contributions, goals for this fellowship, activities planned under this award*
 
-## To include in Specific Aims
+1. Work with Mtb data in both DO and CC
+
+
+
+
+
+## To include in Specific Aims and/or Research training plan
 
 tutorials, examples, reproducible analyses, Docker, R, Rmarkdown, website for software.
 
