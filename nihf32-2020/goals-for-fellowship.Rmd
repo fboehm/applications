@@ -9,6 +9,10 @@ params:
 
 # Goals for fellowship and career
 
+## Career goals
+
+## Fellowship goals
+
 I will develop skills in applied Bayesian statistics for design and analysis of systems genetics 
 studies with the goal of cultivating a robust biostatistics research agenda. I earned a Ph.D. 
 in applied biostatistics at the University of Wisconsin-Madison. My graduate research culminated in the 
