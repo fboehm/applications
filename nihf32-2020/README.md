@@ -7,10 +7,10 @@ https://github.com/scotch-io/All-Github-Emoji-Icons/blob/master/ballot_box_with_
 
 
 - :black_square_button: Biosketch (5 pages) **Feb 12, 2020**
-    - :black_square_button: Personal statement **Feb 11**
+    - :black_square_button: Personal statement **Feb 12**
     - :heavy_check_mark: Positions and honors
     - :black_square_button: Contributions to science **Feb 12**
-    - :black_square_button: Scholastic performance **Feb 11**
+    - :black_square_button: Scholastic performance **Feb 12**
 
 
 - :black_square_button: Project summary/abstract (30 lines of text)

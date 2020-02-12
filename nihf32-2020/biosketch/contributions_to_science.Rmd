@@ -1,0 +1,15 @@
+---
+title: "Contributions to science for Biosketch"
+author: "Frederick J. Boehm"
+date: "2/12/2020"
+output: html_document
+---
+
+1. Developing multivariate QTL mapping methods for systems genetics studies
+
+
+
+2. Diverse applications of text analysis methods
+3. Creating and implementing a quality control pipeline for genome-wide association studies
+4. Epidemiological studies of HIV and other STDs in resource-poor settings
+5. Chemical tools to explore immune cell recognition
