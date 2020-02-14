@@ -62,6 +62,6 @@ mice. We will leverage initial results in Diversity Outbred mice to inform mappi
 
 **Specific Aim 3.** *SOFTWARE: Create and share an open-source software package that implements our methods.* 
 
-We will create and share a user-friendly, open-source R software package and share it via Github. 
+We will create a user-friendly, open-source R software package and share it via Github. 
 To encourage durability of our software and methods, we'll use Docker and Dockerhub
 to execute and share our analyses and tests. 
