@@ -48,7 +48,7 @@ and allow susceptibility traits from the DO to be associated with more specific 
 
 **Specific Aim 1.** *METHODS: Design and implement new biostatistical methods for parametric bayesian inference of allelic series at established QTL in multiparental populations.* 
 
-Methods to quantify distinct QTL alleles are needed to enhance statistical power.
+Methods to characterize alleles are needed to enhance statistical power of QTL mapping.
 We propose a novel Bayesian statistical framework for inferring allelic series at QTL. Knowing the allelic series, 
 *i.e.*, allelic number and configuration, enables QTL mapping with fewer statistical parameters, and, thus, enhanced 
 statistical power.
