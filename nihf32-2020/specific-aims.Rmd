@@ -64,4 +64,4 @@ mice. We will leverage initial results in Diversity Outbred mice to inform mappi
 
 We will create and share a user-friendly, open-source R software package and share it via Github. 
 To encourage durability of our software and methods, we'll use Docker and Dockerhub
-to execute and share our analyses and to test our code. 
+to execute and share our analyses and tests. 
