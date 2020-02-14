@@ -15,8 +15,9 @@ params:
 Multiparental populations of mice have revolutionized systems genetics studies by incorporating
 diverse collections of genetic variants into mapping cohorts, enabling deep phenotyping, and enhancing 
 mapping resolution and biological reproducibility. 
-In particular, these populations are being used to extensively model and understand infectious diseases. While a 
-great deal of data are available from a variety of model infections, analytical methods that enhance statistical 
+In particular, these populations are being used to extensively model and understand infectious diseases. 
+While a 
+great deal of data are available from a variety of model infections, analytic methods that enhance statistical 
 power to detect genetic loci (quantitative trait loci, QTL) that affect these infection-related traits are still lacking.
 
 Two complementary mapping populations, the
@@ -28,13 +29,14 @@ genetically identical subjects, while the
 Diversity Outbred is a collection of highly heterozygous and genetically unique 
 mice with small recombination intervals.
 
-Both Collaborative Cross and Diversity Outbred populations have been used to model tuberculosis pathogenesis.  Our group has performed deep 
+Both Collaborative Cross and Diversity Outbred populations have been used to model tuberculosis pathogenesis.  
+Our group has performed deep 
 phenotyping of CC mice after infection with Mycobacterium tuberculosis (Mtb), and our collaborators have quantified 
 the susceptibly of a large panel of DO animals. In both cases, Mtb infection produces a wide range of phenotypic 
 outcomes, which in some cases can be associated with QTL.  However, the lack of concordance between these studies 
 suggests that many more associations might be observed with more sensitive methods.
 
-We propose to develop an analytical framework that will leverage the strengths of both CC and DO datasets together. 
+We propose to develop an analytic framework that will leverage the strengths of both CC and DO datasets together. 
 By developing a strategy to infer allelic series at a QTL in one populations, we will be able to probe the second 
 population with enhanced statistical power.  This strategy will increase the resolution of mapping in the CC panel, 
 and allow susceptibility traits from the DO to be associated with more specific phenoytpes in the CC.  
@@ -46,23 +48,20 @@ and allow susceptibility traits from the DO to be associated with more specific 
 
 **Specific Aim 1.** *METHODS: Design and implement new biostatistical methods for parametric bayesian inference of allelic series at established QTL in multiparental populations.* 
 
-Methods to quantify distinct QTL alleles are needed to enhance statistical power to detect QTL. To address this need, 
-we propose a novel Bayesian statistical framework for inferring allelic series at QTL. Knowing the allelic series, 
+Methods to quantify distinct QTL alleles are needed to enhance statistical power.
+We propose a novel Bayesian statistical framework for inferring allelic series at QTL. Knowing the allelic series, 
 *i.e.*, allelic number and configuration, enables QTL mapping with fewer statistical parameters, and, thus, enhanced 
 statistical power.
 
 
 **Specific Aim 2.** *APPLICATION: Apply allelic series inferences to complex traits from Diversity Outbred and Collaborative Cross mice.* 
 
-We first will perform simulation studies to characterize QTL detection power 
-enhancements with allelic series-informed QTL mapping. We then will apply our 
+We will apply our 
 methods to tuberculosis-related traits in Diversity Outbred and Collaborative Cross 
-mice. We will leverage initial results in each mapping cohort to inform mapping methods in the other.
+mice. We will leverage initial results in Diversity Outbred mice to inform mapping in Collaborative Cross mice.
 
 **Specific Aim 3.** *SOFTWARE: Create and share an open-source software package that implements our methods.* 
 
 We will create and share a user-friendly, open-source R software package and share it via Github. 
- Additionally,
-we will create a website that hosts and documents our software.
 To encourage durability of our software and methods, we'll use Docker and Dockerhub
 to execute and share our analyses and to test our code. 
