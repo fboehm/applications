@@ -1,8 +1,9 @@
 ---
+fontsize: 11
 output: 
-  bookdown::word_document2:  
-    number_sections: false
   bookdown::pdf_document2:  
+    number_sections: false
+  bookdown::word_document2:  
     number_sections: false
 toc: false
 params:
@@ -12,66 +13,32 @@ params:
 
 # SPECIFIC AIMS
 
-<<<<<<< HEAD
-Mouse multiparental populations have revolutionized systems genetics by incorporating
-diverse genetic variants into mapping cohorts, enabling deep phenotyping, and enhancing 
-mapping resolution and biological reproducibility. 
-In particular, multiparental populations are used extensively to study infectious diseases. While genotype and 
-phenotype data are available for a variety of infections, analytic methods that enhance statistical 
-=======
 Multiparental mouse populations have revolutionized systems genetics by incorporating
-diverse collections of genetic variants into mapping cohorts, enabling deep phenotyping, and enhancing 
+diverse collections of genetic variants, enabling deep phenotyping, and enhancing 
 mapping resolution and biological reproducibility. 
 In particular, these populations are being used to extensively model and understand infectious diseases. 
-While a 
-great deal of data are available from a variety of model infections, analytic methods that enhance statistical 
->>>>>>> c54f00451681b9b81a934b2bf872de5393669d3e
-power to detect genetic loci (quantitative trait loci, QTL) that affect these infection-related traits are still lacking.
+While much data is available from a variety of model infections, powerful analytic methods to detect genetic loci (quantitative trait loci, QTL) that affect infection-related traits are still lacking.
 
 Two complementary mapping populations, the
 Collaborative Cross and the Diversity Outbred mice, arise from the same eight inbred 
-<<<<<<< HEAD
 founder lines and, therefore, share the same collection of genetic variants. However, the two mapping cohorts 
-differ in genetic architecture and possess complementary strengths. The Collaborative Cross is a collection of 
-=======
-founder lines, and, therefore, they share the same collection of genetic variants. However, the two mapping cohorts 
-differ in their genetic architecture and possess complementary strengths. The Collaborative Cross is a collection of 
->>>>>>> c54f00451681b9b81a934b2bf872de5393669d3e
+differ in their genetic architecture and possess complementary strengths. 
+The Collaborative Cross is a collection of 
 recombinant inbred lines that allow experimental replication and serial phenotyping of 
 genetically identical subjects, while the 
 Diversity Outbred is a collection of highly heterozygous and genetically unique 
 mice with small recombination intervals.
 
-<<<<<<< HEAD
-Both Collaborative Cross and Diversity Outbred populations have been used to model tuberculosis pathogenesis.  
+Both Collaborative Cross and Diversity Outbred populations have been used to model tuberculosis pathogenesis. 
 Our colleagues have performed deep 
 phenotyping of Collaborative Cross mice after infection with Mycobacterium tuberculosis (Mtb), and our collaborators have quantified Mtb 
 susceptibility in a large panel of Diversity Outbred animals. In both cases, Mtb infection produces a wide range of 
-outcomes, which in some cases can be associated with QTL.  However, the lack of concordance between these studies 
-suggests that many more QTL might be observed with more sensitive methods.
+outcomes, some of which can be associated with QTL.  However, the lack of concordance between these studies 
+suggests that many more QTL might be observed with more sensitive QTL detection methods.
 
 We propose an analytic framework that leverages strengths of both Collaborative Cross and Diversity Outbred mice. 
-By first developing a strategy to infer allelic series at a QTL in Diversity Outbred mice, we will then be able to probe the Collaborative Cross with enhanced statistical power. This strategy will increase the resolution of mapping in the Collaborative Cross panel
-and allow susceptibility-related traits from the Diversity Outbred to be associated with more specific phenoytpes in the Collaborative Cross.  
-
-
-=======
-Both Collaborative Cross and Diversity Outbred populations have been used to model tuberculosis pathogenesis. 
-Our colleagues in the Sassetti laboratory have performed deep 
-phenotyping of Collaborative Cross mice after infection with Mycobacterium tuberculosis (Mtb), and our collaborators have quantified 
-the susceptibility of a large panel of Diversity Outbred animals. In both cases, Mtb infection produces a wide range of
-outcomes, which in some cases can be associated with QTL.  However, the lack of concordance between these studies 
-suggests that many more associations might be observed with more sensitive QTL detection methods.
->>>>>>> c54f00451681b9b81a934b2bf872de5393669d3e
-
-We propose an analytic framework that leverages the strengths of both Collaborative Cross and 
-Diversity Outbred mice. We first develop a strategy to infer allelic series at QTL in one population. 
-Then, because the other population shares the same alleles, we are able to probe the second 
-population with enhanced statistical power.  This strategy will increase the resolution of mapping in 
-the Collaborative Cross panel, 
-and allow susceptibility traits from the Diversity Outbred to be associated with more specific 
-phenoytpes in the Collaborative Cross.  
-
+By first developing a strategy to infer allelic series at a QTL in Diversity Outbred mice, we then are able to probe the Collaborative Cross with enhanced statistical power. This strategy will increase mapping resolution in the Collaborative Cross mice
+and allow susceptibility-related traits from the Diversity Outbred to be associated with more specific phenotypes in the Collaborative Cross. 
 
 
 **Specific Aim 1.** *METHODS: Design and implement new biostatistical methods for parametric bayesian inference of allelic series at established QTL in multiparental populations.* 
@@ -92,12 +59,4 @@ Cross mice.
 
 **Specific Aim 3.** *SOFTWARE: Create and share an open-source software package that implements our methods.* 
 
-<<<<<<< HEAD
-We will create and share a user-friendly, open-source R software package and share it via Github. 
-Additionally,
-we will create a website that hosts and documents our software.
-=======
-We will create a user-friendly, open-source R software package and share it via Github. 
->>>>>>> c54f00451681b9b81a934b2bf872de5393669d3e
-To encourage durability of our software and methods, we'll use Docker and Dockerhub
-to execute and share our analyses and tests. 
+We will create and share a user-friendly, open-source R software package and a website that documents our software.
