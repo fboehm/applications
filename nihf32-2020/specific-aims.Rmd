@@ -1,8 +1,8 @@
 ---
 output: 
-  bookdown::pdf_document2:  
-    number_sections: false
   bookdown::word_document2:  
+    number_sections: false
+  bookdown::pdf_document2:  
     number_sections: false
 toc: false
 params:
@@ -12,7 +12,7 @@ params:
 
 # SPECIFIC AIMS
 
-Multiparental populations of mice have revolutionized systems genetics studies by incorporating
+Multiparental mouse populations have revolutionized systems genetics by incorporating
 diverse collections of genetic variants into mapping cohorts, enabling deep phenotyping, and enhancing 
 mapping resolution and biological reproducibility. 
 In particular, these populations are being used to extensively model and understand infectious diseases. 
@@ -22,43 +22,45 @@ power to detect genetic loci (quantitative trait loci, QTL) that affect these in
 
 Two complementary mapping populations, the
 Collaborative Cross and the Diversity Outbred mice, arise from the same eight inbred 
-founder lines and, therefore, they share the same collection of genetic variants. However, the two mapping cohorts 
+founder lines, and, therefore, they share the same collection of genetic variants. However, the two mapping cohorts 
 differ in their genetic architecture and possess complementary strengths. The Collaborative Cross is a collection of 
 recombinant inbred lines that allow experimental replication and serial phenotyping of 
 genetically identical subjects, while the 
 Diversity Outbred is a collection of highly heterozygous and genetically unique 
 mice with small recombination intervals.
 
-Both Collaborative Cross and Diversity Outbred populations have been used to model tuberculosis pathogenesis.  
-Our group has performed deep 
-phenotyping of CC mice after infection with Mycobacterium tuberculosis (Mtb), and our collaborators have quantified 
-the susceptibly of a large panel of DO animals. In both cases, Mtb infection produces a wide range of phenotypic 
+Both Collaborative Cross and Diversity Outbred populations have been used to model tuberculosis pathogenesis. 
+Our colleagues in the Sassetti laboratory have performed deep 
+phenotyping of Collaborative Cross mice after infection with Mycobacterium tuberculosis (Mtb), and our collaborators have quantified 
+the susceptibility of a large panel of Diversity Outbred animals. In both cases, Mtb infection produces a wide range of
 outcomes, which in some cases can be associated with QTL.  However, the lack of concordance between these studies 
-suggests that many more associations might be observed with more sensitive methods.
+suggests that many more associations might be observed with more sensitive QTL detection methods.
 
-We propose to develop an analytic framework that will leverage the strengths of both CC and DO datasets together. 
-By developing a strategy to infer allelic series at a QTL in one populations, we will be able to probe the second 
-population with enhanced statistical power.  This strategy will increase the resolution of mapping in the CC panel, 
-and allow susceptibility traits from the DO to be associated with more specific phenoytpes in the CC.  
-
-
-
+We propose an analytic framework that leverages the strengths of both Collaborative Cross and 
+Diversity Outbred mice. We first develop a strategy to infer allelic series at QTL in one population. 
+Then, because the other population shares the same alleles, we are able to probe the second 
+population with enhanced statistical power.  This strategy will increase the resolution of mapping in 
+the Collaborative Cross panel, 
+and allow susceptibility traits from the Diversity Outbred to be associated with more specific 
+phenoytpes in the Collaborative Cross.  
 
 
 
 **Specific Aim 1.** *METHODS: Design and implement new biostatistical methods for parametric bayesian inference of allelic series at established QTL in multiparental populations.* 
 
-Methods to characterize alleles are needed to enhance statistical power of QTL mapping.
-We propose a novel Bayesian statistical framework for inferring allelic series at QTL. Knowing the allelic series, 
-*i.e.*, allelic number and configuration, enables QTL mapping with fewer statistical parameters, and, thus, enhanced 
-statistical power.
+We propose a novel Bayesian statistical framework for inferring allelic series at QTL. Knowing the 
+allelic series, 
+*i.e.*, allelic number and configuration, enables QTL mapping with fewer statistical parameters, and, 
+thus, enhanced 
+statistical power (when the allelic series is accurately inferred).
 
 
 **Specific Aim 2.** *APPLICATION: Apply allelic series inferences to complex traits from Diversity Outbred and Collaborative Cross mice.* 
 
 We will apply our 
 methods to tuberculosis-related traits in Diversity Outbred and Collaborative Cross 
-mice. We will leverage initial results in Diversity Outbred mice to inform mapping in Collaborative Cross mice.
+mice. Specifically, we will leverage initial results in Diversity Outbred mice to inform mapping in Collaborative 
+Cross mice.
 
 **Specific Aim 3.** *SOFTWARE: Create and share an open-source software package that implements our methods.* 
 
