@@ -1,0 +1,20 @@
+---
+title: "personal statement for Biosketch"
+author: "Frederick J. Boehm"
+date: "2/12/2020"
+output: html_document
+---
+
+I will use this fellowship training to develop Bayesian statistical methods to advance complex trait genetics. 
+Specifically, I will implement a Bayesian hierarchical model for inferring allelic series at QTL. I will then apply 
+this approach to traits in Diversity Outbred and Collaborative Cross mice. I first infer the allelic series at a QTL 
+in Diversity Outbred mice. Then, because Diversity Outbred and Collaborative Cross mice share the same founders, I use 
+the inferred allelic series to reduce the number of parameters fitted in the QTL scan in Collaborative Cross mice. 
+This provides more statistical power to detect QTL with the specified allelic series.
+
+
+My previous research in developing frequentist (not Bayesian) statistical methods for complex trait genetics resulted 
+in multiple journal articles reporting new methods, applications, and software. I now propose fellowship training to 
+elaborate my statistical methods skills set with research in a Bayesian framework. In so doing, I will develop the 
+skills needed for a future career in biostatistical methods development research.
+

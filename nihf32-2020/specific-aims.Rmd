@@ -1,64 +1,62 @@
 ---
-output: bookdown::pdf_document2
+fontsize: 11
+output: 
+  bookdown::pdf_document2:  
+    number_sections: false
+  bookdown::word_document2:  
+    number_sections: false
 toc: false
 params:
-  lastmod: !r lubridate::now()
+  lastmod: !r lubridate::now()  
 ---
 
-Last modified: `r params$lastmod`.
 
-SPECIFIC AIMS
+# SPECIFIC AIMS
 
-**Specific Aim 1.** 
+Multiparental mouse populations have revolutionized systems genetics by incorporating
+diverse collections of genetic variants, enabling deep phenotyping, and enhancing 
+mapping resolution and biological reproducibility. 
+In particular, these populations are being used to extensively model and understand infectious diseases. 
+While much data is available from a variety of model infections, powerful analytic methods to detect genetic loci (quantitative trait loci, QTL) that affect infection-related traits are still lacking.
 
-*Design and implement new biostatistical methods for parametric bayesian inference of allelic series at established QTL in multiparental populations.* 
+Two complementary mapping populations, the
+Collaborative Cross and the Diversity Outbred mice, arise from the same eight inbred 
+founder lines and, therefore, share the same collection of genetic variants. However, the two mapping cohorts 
+differ in their genetic architecture and possess complementary strengths. 
+The Collaborative Cross is a collection of 
+recombinant inbred lines that allow experimental replication and serial phenotyping of 
+genetically identical subjects, while the 
+Diversity Outbred is a collection of highly heterozygous and genetically unique 
+mice with small recombination intervals.
 
-A lynchpin in this aim is development of a Markov chain monte carlo 
-sampler for inferring allelic series at known QTL with parametric 
-bayes methods. MCMC methods are notoriously computationally 
-intensive and may demonstrate poor mixing, especially in the case of 
-reversible jump MCMC. To circumvent known issues with 
-trans-dimensional reversible jump MCMC methods, we propose to 
-translate methods of Yi et al to our setting. [Explain Yi's models]
+Both Collaborative Cross and Diversity Outbred populations have been used to model tuberculosis pathogenesis. 
+Our colleagues have performed deep 
+phenotyping of Collaborative Cross mice after infection with Mycobacterium tuberculosis (Mtb), and our collaborators have quantified Mtb 
+susceptibility in a large panel of Diversity Outbred animals. In both cases, Mtb infection produces a wide range of 
+outcomes, some of which can be associated with QTL.  However, the lack of concordance between these studies 
+suggests that many more QTL might be observed with more sensitive QTL detection methods.
 
-Note that we know the true upper limit for the number of alleles, 
-since it is merely the number of founder lines.
-
-
-
-
-**Specific Aim 2.** 
-
-*Apply allelic series inferences to traits from Diversity Outbred and Collaborative Cross mice.* 
-
-We first will perform simulation studies to characterize QTL detection power 
-enhancements with allelic series-informed mapping. We then will apply our 
-methods to gene expression traits in Diversity Outbred and Collaborative Cross 
-mice.
-
+We propose an analytic framework that leverages strengths of both Collaborative Cross and Diversity Outbred mice. 
+By first developing a strategy to infer allelic series at a QTL in Diversity Outbred mice, we then are able to probe the Collaborative Cross with enhanced statistical power. This strategy will increase mapping resolution in the Collaborative Cross mice
+and allow susceptibility-related traits from the Diversity Outbred to be associated with more specific phenotypes in the Collaborative Cross. 
 
 
+**Specific Aim 1.** *METHODS: Design and implement new biostatistical methods for parametric bayesian inference of allelic series at established QTL in multiparental populations.* 
 
-**Specific Aim 3.** 
-
-*Create and share an open-source software package that implements our methods.* 
-
-We will create and share a user-friendly, open-source R software package. 
-We will share publicly our package via Github. 
-The R package will contain both functions that execute our new 
-methods and code to reproduce all analyses from Specific Aim 2. Additionally,
-we will create a website that hosts and documents our software.
-To encourage durability of our software and methods, we'll use Docker 
-to execute our analyses and test our code. We will share the Docker 
-images via Dockerhub.
+We propose a novel Bayesian statistical framework for inferring allelic series at QTL. Knowing the 
+allelic series, 
+*i.e.*, allelic number and configuration, enables QTL mapping with fewer statistical parameters, and, 
+thus, enhanced 
+statistical power (when the allelic series is accurately inferred).
 
 
+**Specific Aim 2.** *APPLICATION: Apply allelic series inferences to complex traits from Diversity Outbred and Collaborative Cross mice.* 
 
+We will apply our 
+methods to tuberculosis-related traits in Diversity Outbred and Collaborative Cross 
+mice. Specifically, we will leverage initial results in Diversity Outbred mice to inform mapping in Collaborative 
+Cross mice.
 
+**Specific Aim 3.** *SOFTWARE: Create and share an open-source software package that implements our methods.* 
 
-
-
-
-tutorials, examples, reproducible analyses, Docker, R, Rmarkdown, website for software.
-
-
+We will create and share a user-friendly, open-source R software package and a website that documents our software.

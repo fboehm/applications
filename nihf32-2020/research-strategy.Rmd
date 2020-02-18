@@ -3,16 +3,69 @@ toc: false
 output: 
   bookdown::pdf_document2:
     number_sections: false
-    includes:
-      in_header: in_header.tex
 params:
   lastmod: !r lubridate::now()
 ---
 
 
-\fancyhead[LO,LE]{Last modified: `r params$lastmod`}
-
-
 # RESEARCH STRATEGY
 
+**I. SIGNIFICANCE** Multiparental populations of model organisms incorporate DNA from more than two founders 
+and offer unique opportunities to dissect genetics of complex traits. Two widely used mouse populations are 
+the Diversity Outbred and the Collaborative Cross. Both arise from the same eight founders. The Diversity 
+Outbred is a heterogeneous stock with genomes that are highly heterozygous mosaics of the eight founder 
+genomes. The Collaborative Cross, on the other hand, is a collection of inbred lines derived from the eight 
+founder genomes. As such, the Collaborative Cross offers the ability to replicate a study on mice with 
+identical (or nearly identical) genomes. Each Diversity Outbred mouse, alternatively, is genetically unique. 
+Strengths of the Diversity Outbred include the wide range of allelic combinations, for a collection of loci, 
+in a single cohort. 
 
+Applied bayesian statistics offers a rich suite of methods for learning from data. Central to any bayesian 
+analysis is specification of prior distributions for unobserved quantities. 
+
+In traditional two-parent crosses, a QTL is a genomic region where the two founder alleles have distinct 
+effects on the trait. Because only two founders are used in such crosses, there was never a need to consider 
+whether multiple founders shared an allele. While studies with the Diversity Outbred and Collaborative Cross 
+have yielded many new biological insights, concerns remain about statistical power to detect QTL in such 
+studies. Our proposal aims to impact this aspect of 
+
+
+**Things that I should justify:**
+
+QTL mapping
+model organisms
+mice
+DO & CC
+
+need or utility of bayesian methods 
+relative absence of bayesian methods in current QTL mapping methods (r/qtl2)
+
+how to measure evidence in support of a single allelic series (compared to another)
+
+
+
+**II. APPROACH** We organize our approach according to the three aims. 
+
+*Methods (Aim 1):* We begin methods development by specifying 
+a Bayesian statistical model for allelic effects at a QTL. We show below how that 
+model specification can be used to compose a Markov chain monte carlo sampler for 
+making inferences about the posterior distribution of unobserved 
+quantities, conditional on the observed quantities. In doing this, we 
+
+
+*Applications (Aim 2):* 
+
+
+- need to discuss data and its availability here
+
+
+
+
+*Software (Aim 3):* I have expertise in developing, sharing, and maintaining open-source software.
+
+
+
+
+
+
+**III. PRELIMINARY STUDIES** 
