@@ -2,12 +2,20 @@
 title: "Contributions to science for Biosketch"
 author: "Frederick J. Boehm"
 date: "2/12/2020"
-output: html_document
+output: 
+  bookdown::pdf_document2: 
+    includes:
+      in_header: in_header.tex
+bibliography: ../research.bib
 ---
 
-1. Developing multivariate QTL mapping methods for systems genetics studies
+**1. Developing multivariate QTL mapping methods for systems genetics studies**
 
+In my Ph.D. thesis research, I developed methods for testing the presence of a single pleiotropic QTL against separate QTL in multiparental populations. In many systems genetics studies, investigators use univariate mapping to identify QTL that affect a single trait. @jiang1995multiple observed that multivariate QTL mapping methods enable researchers to not only identify QTL that affect a collection of traits, but also permit the researcher to ask questions about whether a single locus affects multiple traits. 
 
+My pleiotropy vs. separate QTL test hinges on a multivariate, multi-QTL scan that incorporates multivariate random effects to account for relatedness. Multivariate random effects are notoriously difficult and computationally costly to fit. I adapted an existing method to multiparental populations. 
+
+I characterized the methods with simulated traits before applying it to two behavioral traits that map to a single genomic region. I simultaneously implemented the methods in an open-source, user-friendly software package for the R statistical computing environment. I also applied the methods to a pair of microbiome-derived traits. I subsequently studied the test performance in expression trait hotspot dissection (unpublished results).   
 
 2. Diverse applications of text analysis methods
 3. Creating and implementing a quality control pipeline for genome-wide association studies
