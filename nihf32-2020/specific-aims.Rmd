@@ -1,7 +1,7 @@
 ---
 fontsize: 11
 output: 
-  bookdown::pdf_document2:  
+  bookdown::pdf_document2:    
     number_sections: false
   bookdown::word_document2:  
     number_sections: false
@@ -45,17 +45,15 @@ and allow susceptibility-related traits from the Diversity Outbred to be associa
 
 We propose a novel Bayesian statistical framework for inferring allelic series at QTL. Knowing the 
 allelic series, 
-*i.e.*, allelic number and configuration, enables QTL mapping with fewer statistical parameters, and, 
-thus, enhanced 
-statistical power (when the allelic series is accurately inferred).
+*i.e.*, allelic number and configuration, at one QTL increases the statistical power to probe additional populations for new traits that are associated with the same locus and same allelic series.
 
 
 **Specific Aim 2.** *APPLICATION: Apply allelic series inferences to complex traits from Diversity Outbred and Collaborative Cross mice.* 
 
-We will apply our 
-methods to tuberculosis-related traits in Diversity Outbred and Collaborative Cross 
-mice. Specifically, we will leverage initial results in Diversity Outbred mice to inform mapping in Collaborative 
-Cross mice.
+  a. Infer allelic series in Diversity Outbred mice and probe Collaborative Cross for additional traits that share allelic series and QTL.
+  b. Infer allelic series in Collaborative Cross mice and probe Diversity Outbred for corresponding peaks that can reduce QTL interval size.
+
+
 
 **Specific Aim 3.** *SOFTWARE: Create and share an open-source software package that implements our methods.* 
 
