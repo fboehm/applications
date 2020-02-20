@@ -11,11 +11,13 @@ bibliography: ../research.bib
 
 **1. Developing multivariate QTL mapping methods for systems genetics studies**
 
-In my Ph.D. thesis research, I developed methods for testing the presence of a single pleiotropic QTL against separate QTL in multiparental populations. In many systems genetics studies, investigators use univariate mapping to identify QTL that affect a single trait. @jiang1995multiple observed that multivariate QTL mapping methods enable researchers to not only identify QTL that affect a collection of traits, but also permit the researcher to ask questions about whether a single locus affects multiple traits. 
+In my Ph.D. thesis research, I developed methods for testing the presence of a single pleiotropic QTL against separate QTL in multiparental populations. In many systems genetics studies, investigators use univariate mapping to identify QTL that affect a single trait. @jiang1995multiple observed that multivariate QTL mapping methods enable researchers to not only identify QTL that affect a collection of traits, but also permit one to ask whether a single locus affects multiple traits. 
 
-My pleiotropy vs. separate QTL test hinges on a multivariate, multi-QTL scan that incorporates multivariate random effects to account for relatedness. Multivariate random effects are notoriously difficult and computationally costly to fit. I adapted an existing method to multiparental populations. 
+My pleiotropy vs. separate QTL test hinges on a multivariate, multi-QTL scan that incorporates multivariate random effects to account for relatedness. Multivariate random effects are notoriously difficult and computationally costly to fit. I adapted a restricted maximum likelihood method to infer variance components needed for model fitting [@boehm2019gemma2]. 
 
-I characterized the methods with simulated traits before applying it to two behavioral traits that map to a single genomic region. I simultaneously implemented the methods in an open-source, user-friendly software package for the R statistical computing environment. I also applied the methods to a pair of microbiome-derived traits. I subsequently studied the test performance in expression trait hotspot dissection (unpublished results).   
+I characterized the test with simulated traits before applying it to two behavioral traits that map to a single genomic region [@boehm2019testing]. I simultaneously implemented the methods in an open-source, user-friendly software package for the R statistical computing environment [@boehm2019qtl2pleiopkg; @boehm2019qtl2pleio]. I also applied the methods to a pair of microbiome-derived traits, where our results were consistent with a single pleiotropic QTL affecting both [@kemis2019genetic]. Subsequent causal inference methods suggested that the two traits influence each other.
+
+I also studied the test performance in expression trait hotspot dissection (unpublished results).   
 
 2. Diverse applications of text analysis methods
 3. Creating and implementing a quality control pipeline for genome-wide association studies
