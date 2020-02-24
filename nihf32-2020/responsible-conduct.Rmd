@@ -1,5 +1,7 @@
 ---
 output: 
+  bookdown::pdf_document2:  
+    number_sections: false
   bookdown::word_document2:  
     number_sections: false
 toc: false
@@ -9,8 +11,9 @@ params:
 
 # Training in the responsible conduct of research
 
+1. UMMS class in April 2020
+1. WPI class in Fall 2020
 1. 
-
 
 
 
