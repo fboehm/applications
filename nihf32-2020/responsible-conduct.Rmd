@@ -1,5 +1,7 @@
 ---
 output: 
+  bookdown::pdf_document2:  
+    number_sections: false
   bookdown::word_document2:  
     number_sections: false
 toc: false
@@ -8,6 +10,12 @@ params:
 ---
 
 # Training in the responsible conduct of research
+
+1. UMMS class in April 2020
+1. WPI class in Fall 2020
+1. 
+
+
 
 Boehm's RCR plan will enable him to engage research ethics in a scholarly fashion. The plan has four
 components: 1) IRES fellowship application, 2) seminar participation, 3) coursework in research
