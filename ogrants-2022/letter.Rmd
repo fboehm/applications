@@ -1,0 +1,54 @@
+---
+author: Frederick Boehm  
+return-address: 
+  - 2502 Packard ST APT 2404
+  - Ann Arbor, MI 48104
+  - USA
+return-phone: 715-252-3929
+return-email: frederick.boehm@gmail.com
+return-url: https://fboehm.us
+subject: Application for Advisory Committee, Planning for Open Grants
+opening: Dear Search Committee,
+closing: Yours sincerely,
+signature: Frederick Boehm
+address:
+  - Search Committee 
+  - ogrants@googlegroups.com 
+output: komaletter::komaletter
+---
+
+I am writing to apply for a position on the Advisory Committee for Planning 
+for Open Grants. I currently work as a postdoctoral fellow at the University 
+of Michigan's Department of Biostatistics, where my research is in statistical 
+genetics. My commitment to open and transparent science grew out of my 
+graduate school training and has continued as I moved for postdoctoral 
+research opportunities. As a graduate student in statistics at the University 
+of Wisconsin-Madison, I enrolled in courses in reproducible research and 
+served as a fellow in ethics in research and scholarship. As I conducted my 
+research and wrote my thesis, I shared weekly updates on Github 
+(https://github.com/fboehm/diss-latex). I've also shared drafts of journal 
+articles and software packages that aim to enhance reproducible analyses in systems genetics studies (https://github.com/fboehm/qtl2pleio & https://github.com/fboehm/qtl2pleio-manuscript-clean). 
+
+Since June 2020, I've served as an editor of the Journal of Open Source 
+Software, which aims to promote transparency in science by publishing 
+open-source software packages. 
+
+My fellowship writing experience includes applying for NSF's graduate research 
+fellowship and NIH's F32 postdoctoral fellowship. I've shared my F32 
+application materials and summary statements on figshare 
+(https://figshare.com/articles/dataset/Sample_size_planning_methods_in_post-GW
+AS_breast_cancer_eQTL_studies/5588917). I also received research funding via 
+an institutional NIH T32 program. 
+
+I'm eager to see the continued growth of the Open Grants program and open and transparent science in general. By serving on this committee, I would better be able to contribute to the community of scholars who support open science. This would also be a valuable networking opportunity for me. 
+
+If my application is selected, I would gladly travel to Florida for the in-person meeting and participate in any follow-up virtual meetings. 
+
+Thank you for considering my application. I've also enclosed an abbreviated CV. A more extensive CV is available on my website, https://fboehm.us/vitae/. 
+
+
+
+
+
+
+
