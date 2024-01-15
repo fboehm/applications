@@ -34,7 +34,16 @@ Lunch will be provided during the in-person sessions, and we encourage you to ha
 > An ideal response would include how the program fits into current challenges you have, future goals, particular skills you’re interested in strengthening, etc. Please share at least a few sentences explaining your interest in joining the program, which will enable the committee to best evaluate your participation.
 
 
+
+
+
+
 ## Answer to Q1
+
+I want to develop skills in leadership and team management. I hope to start a new job in the near future. In my new position, I expect to lead a team of junior researchers as we work to achieve our goals in biostatistics and human genetics. This role will require me to motivate my team, monitor progress, encourage creativity and problem solving, negotiate with others within and outside my team, and promote team members' development as scientists. While I have extensive training in quantitative and biomedical research skills, I have little format training in many crucial team management skills.
+
+I hope that the You3 program will guide me as I prepare to learn and practice the needed skills.
+
 
 
 
@@ -62,5 +71,9 @@ Lunch will be provided during the in-person sessions, and we encourage you to ha
 > Tell us of a time when you were part of a team or project that was not managed effectively. Share what the issues were and what steps were/could have been taken to improve the experience. What skills would you hope to learn from this program that could have helped you approach it differently?
 
 ## Answer to Q2
+
+I wish to answer 2b: "Tell us about a time, currently or in the past, when you have managed a person or people. What do you hope to learn from this program that would expand and improve your management skills and why?".
+
+As a graduate student at University of Wisconsin-Madison, I mentored a senior undergraduate researcher in statistics. Over the course of nine months, he developed a new statistical method for using tweets (from Twitter) to identify social media events. We met regularly to discuss progress and to troubleshoot problems. However, I don't feel that I adequately motivated him in his work. While he completed the project and presented a poster at a conference, I feel that we might have progressed further had we both been more energized to complete the project. At the time, I don't think that I regarded team motivation as my responsibility, but I since have recognized that, to a degree, it is.
 
 
