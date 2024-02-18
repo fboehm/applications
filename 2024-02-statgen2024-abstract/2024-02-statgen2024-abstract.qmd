@@ -1,0 +1,31 @@
+---
+title: "Submitting an Abstract for STATGEN2024"
+bibliography: ../my.bib
+format: 
+    pdf: default
+    docx: default
+    gfm: default
+---
+
+
+
+
+
+> If applicable, describe how your abstract promotes diversity (e.g., in authors or topics).
+
+> Presentation title: 
+
+No Evidence for a Causal Effect of Fibromuscular Dysplasia on Chronic Kidney and Biomarkers of Kidney Function: A Mendelian Randomization Study
+
+> Abstract (max 1200 characters):
+
+Fibromuscular dysplasia (FMD) is a noninflammatory and nonatherosclerotic disease of artery walls that often affects medium-sized artery beds, including those of the renal arteries [@olin2011diagnosis;@mousa2013renal;@sang1989etiologic]. 
+Multiple studies and case reports have implicated renal artery FMD in impaired kidney function [@hunt1965hypertension;@oliva2018kidneys;@mounier2002parenchymal;@van2018renal]. We sought to quantify 
+the causal effects of: FMD on chronic kidney disease, FMD on plasma Cystatin C level, and FMD on plasma creatinine level. With the growing availability of genome-wide association study results, we used 
+used publicly available summary statistics in a two-sample Mendelian randomization study. 
+
+
+
+
+## References
+
