@@ -15,7 +15,7 @@ format:
 
 > Presentation title: 
 
-No Evidence for a Causal Effect of Fibromuscular Dysplasia on Chronic Kidney and Biomarkers of Kidney Function: A Mendelian Randomization Study
+Assessing the Evidence for a Causal Effect of Fibromuscular Dysplasia on Chronic Kidney and Biomarkers of Kidney Function: A Mendelian Randomization Study
 
 > Abstract (max 1200 characters):
 
