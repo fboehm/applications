@@ -1,13 +1,23 @@
 ---
 title: README
-format: gfm
+format: 
+    pdf: default
+    docx: default
 ---
+
+## Overview
+
+https://genetics-gsa.org/career-development/early-career-leadership/
+
+
+https://genestogenomes.org/early-career-scientist-leadership-spotlight-frederick-boehm/
+
 
 ## Dates of GSA Committee Participation
 
 Feb 1, 2020 to Jan 31, 2022
 
-Steering Committee (later changed name to ?)
+Steering Committee (later changed name to ECS Community and Membership Engagement (CME) Subcommittee)
 
 
 
@@ -22,10 +32,63 @@ Steering Committee (later changed name to ?)
 
 - spotlights piece in gsa newsletter?? Is it also on website?  
 
-- LMAP course with Molly Grisham
+- LMAP course with Molly Grisham (https://www.mollygrisham.com/)
   	- list curriculum, goals, etc
 	- how much time? 4 weeks? 4 hours per week? 
 
+- Virtual Cafe participant
+    - what were the topics of the Virtual Cafe events? How many events? Topics? how did I participate?
+    - I think these were driven by Courtney. I don't think that I actually did anything to organize
+  
 
 
+## LMAP Course
+
+Leadership and Management in Action Program
+Designed by Molly & others & Facilitated by Molly Grisham (https://www.mollygrisham.com/)
+
+> “Leadership and Management in Action Program” This 6-week program was designed to address leadership development in the Bioscience space. Participants are provided with a workbook that includes all program materials and guides trainees through self-reflection exercises in addition to the in-person or remote content. The units covered are professionalism and professional identity, leading without authority, negotiation, working in teams, inclusive organizational structure, and writing your leadership statement. 
+> Length: 12 hours of coursework over six weeks 
+> Audience: Bioscience graduate students and postdocs
+> Platform: Face to face OR online
+
+> Read an article about this program here: https://genestogenomes.org/leadership-training-for-early-career-researchers/. Reposted with permission from the Genetics Society of America. 
+
+### GSA article on LMAP Course
+
+https://genestogenomes.org/leadership-training-for-early-career-researchers/
+
+> Beyond the more traditional aspects of benchwork, publishing, and acquiring funding, running a successful lab involves developing various skills that are often less discussed in academia. This includes managing lab personnel, budgeting, building an inclusive and collaborative environment, and resolving conflicts—all of which require leadership and management skills. 
+
+Without these skills, it is very hard to excel in a scientific career. Unfortunately, graduate school and postdoctoral experiences are limited with this training; consequently, new faculty are often overwhelmed when starting their lab. In order to survive, they often have to rely on trusted mentors for support and guidance, which is not always available. Therefore, given the importance of these skills, early career researchers planning to pursue careers in academia need to learn the interpersonal and psychological foundation of leading teams and managing people in addition to their research training. 
+
+Recognizing this importance, GSA offered a unique Leadership and Management Action Program (L-MAP) facilitated by Molly Grisham to graduate students and postdocs in the Early Career Leadership Program, where we practiced leadership skills. Based on discussions of case studies drawn from experiences of graduate students and postdocs from diverse backgrounds, the program employed an active-learning format. Using real-world scenarios combined with a problem-solving approach and group discussions with peers helped us learn different professional behaviors and communication strategies. In addition, applicable leadership and management skills developed in the training program are transferable to any career in the biomedical sciences. 
+
+Briefly, we discuss a few key concepts that we practiced in the coursework, which allowed us to change attitudes, behaviors, and decisions related to conflict management, communication strategies, and organizational hierarchies. 
+
+Professionalism and professional identity
+
+In a research team, the close association among researchers is always considered a positive. This creates a healthy environment additionally and also allows us to build our individual identities as professionals. Learning professionalism starts from identifying how we as individuals act in the work environment. The best team culture allows us to embrace a multicultural and interdisciplinary atmosphere while maintaining our individual identities. 
+
+In the present time, when graduate and postdoc academic training is not limited to traditional career options such as university researcher and teacher, professionalism training has become even more relevant for career transitions and making most of the Ph.D. Bringing on board the best from our cultural background, values, and technical training is what professionalism and professional identity are about.
+
+Leading without authority 
+
+Understanding the fine line between authority and leadership is an important lesson for an ECR who aspires to lead a lab. While authoritative leadership can be acquired formally, whether by virtue of hierarchy, force, or acquiring the crucial resources, as early career researchers, the leaders we admired the most did not use these tactics. When leadership power was due to either knowledge/expertise or trust and respect earned in the workspace, this created a more respectful research environment.
+
+Negotiation
+
+Consider common scenarios in the lab – negotiation around desk space in the office, using shared resources, or time with colleagues or advisors. While we avoid talking about negotiation on these issues as it induces stress and fear, working with a research team requires negotiation skills inevitably. We learned through peer discussions that understanding what is at stake in the negotiation, identifying shared interests, and creating transparency provide overall value in the negotiation and build a long-term relationship with the peers. 
+
+Working in teams
+
+In research laboratories, we often work as a team with a common goal of conducting research in a particular field. However, we bring different values, beliefs, and abilities to the overall effort. Understanding team structure and dynamics are essential for the lab’s research productivity, while effective communication among lab members effectively minimizes conflicts.   
+
+Inclusive organizational cultures 
+
+As an academic community, we have never been more aware of the need to embrace inclusion and diversity in our laboratories and workplaces. A true leader should be a champion of inclusion and diversity and committed to providing equal opportunity. However, effective DEI efforts can only come from a good understanding of organizational structure and peer awareness. 
+
+The new dimension to this part of leadership is mental well-being and identifying causes responsible for toxic work environments. The empathetic work culture and right training sessions organized by institutions will create new world academic leaders, just like the Early Career Leadership training Program by GSA.  
+
+In summary, this training program provided an opportunity to identify professional behaviors and improve our professional attitudes. We thank GSA and the ECLP Engagement department for offering the course.  
 
