@@ -1,0 +1,16 @@
+---
+title: README
+format: gfm
+---
+
+## Link to application form
+
+https://apply.ashg.org/a/page/committee_nomination
+
+## Which committee?
+
+- Program Committee?? the webpage states that they are looking for people working in gen epi, complex traits, stat gen, etc.
+
+- Some committees expressly want trainees - which? 
+
+
