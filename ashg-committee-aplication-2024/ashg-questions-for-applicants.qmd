@@ -1,5 +1,5 @@
 ---
-format: html
+format: gfm
 ---
 
 ## Please describe why you are interested in serving on this committee. Word count: 0 / 150
