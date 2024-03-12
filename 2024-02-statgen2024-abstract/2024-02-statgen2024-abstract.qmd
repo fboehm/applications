@@ -1,6 +1,7 @@
 ---
 title: "Submitting an Abstract for STATGEN2024"
-bibliography: ../my.bib
+bibliography: my.bib
+csl: nature.csl
 format: 
     pdf: default
     docx: default
@@ -20,10 +21,12 @@ Assessing the Evidence for a Causal Effect of Fibromuscular Dysplasia on Chronic
 
 Fibromuscular dysplasia (FMD) is a noninflammatory and nonatherosclerotic disease of artery walls that often affects medium-sized artery beds, including those of the renal arteries [@olin2011diagnosis;@mousa2013renal;@sang1989etiologic]. 
 Multiple studies and case reports have implicated renal artery FMD in impaired kidney function [@hunt1965hypertension;@oliva2018kidneys;@mounier2002parenchymal;@van2018renal]. We sought to quantify 
-the causal effects of: FMD on chronic kidney disease, FMD on plasma Cystatin C level, and FMD on plasma creatinine level. 
+causal effects of: FMD on chronic kidney disease. 
 We used publicly available summary statistics in a two-sample Mendelian randomization study. 
 Specifically, we used genetic instruments for FMD from a meta-analysis of six genome-wide association studies of multifocal FMD [@georges2021genetic]. 
-For each putative outcome variable, we performed a two-sample Mendelian randomization analysis with inverse-variance weighted, weighted median, and MR-Egger methods. We obtained association effect estimates for putative outcomes from publicly available summary statistics from UK Biobank GWAS [@neale_lab_gwas].
+For each putative outcome variable, we performed a two-sample Mendelian randomization analysis with inverse-variance weighted, weighted median, MR-Egger, weighted mode, and simple mode methods. We obtained association effect estimates for putative outcomes from publicly available summary statistics from UK Biobank GWAS [@neale_lab_gwas].
+We considered three different p-value thresholds ($10^{-8}$, $10^{-7}$, $10^{-6}$) when choosing relevant SNP instruments for the MR analyses. All five methods showed no evidence of a causal effect of FMD on chronic kidney disease. To further investigate our findings, we performed sensitivity analyses in efforts to assess evidence of horizontal pleiotropy and other sources of confounding [@skrivankova2021strengthening;@burgess2017sensitivity]. 
+
 
 
 
