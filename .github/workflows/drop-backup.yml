@@ -1,0 +1,29 @@
+name: GitHub to Dropbox backup
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - name: Backup
+        uses: chyroc/github2dropbox@v0.4.0
+        with: 
+          DROPBOX: ${{ secrets.DROPBOX }} # dropbox token
+          GH: ${{ secrets.GH}} # github token
+          ENABLE_REPO: true # enable repo backup
+          ENABLE_STAR: true # enable star backup
+          ENABLE_FOLLOWER: true # enable follower backup
+          ENABLE_FOLLOWING: true # enable following backup
+          ENABLE_GIST: true # enable gist backup
+          ENABLE_ISSUE: true # enable issue backup(need ENABLE_REPO=true)
+          ENABLE_ISSUE_COMMENT: true # enable issue 
+          ENABLE_REPO_GIT: true # enable repo .git folder backup(need ENABLE_REPO=true)
+      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
+      - run: echo "🖥️ The workflow is now ready to test your code on the runner."
+      - name: List files in the repository
+        run: |
+          ls ${{ github.workspace }}
+      - run: echo "🍏 This job's status is ${{ job.status }}."
