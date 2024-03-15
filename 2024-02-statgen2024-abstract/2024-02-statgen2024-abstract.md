@@ -12,23 +12,21 @@ Randomization Study
 Fibromuscular dysplasia (FMD) is a noninflammatory and
 nonatherosclerotic disease of artery walls that often affects
 medium-sized artery beds, including those of the renal
-arteries<sup>1–3</sup>. Multiple studies and case reports have
-implicated renal artery FMD in impaired kidney function<sup>4–7</sup>.
-We sought to quantify causal effects of: FMD on chronic kidney disease.
-We used publicly available summary statistics in a two-sample Mendelian
-randomization study. Specifically, we used genetic instruments for FMD
-from a meta-analysis of six genome-wide association studies of
-multifocal FMD<sup>8</sup>. For each putative outcome variable, we
-performed a two-sample Mendelian randomization analysis with
-inverse-variance weighted, weighted median, MR-Egger, weighted mode, and
-simple mode methods. We obtained association effect estimates for
-putative outcomes from publicly available summary statistics from UK
+arteries<sup>1–3</sup>. Multiple studies implicated renal artery FMD in
+impaired kidney function<sup>4–7</sup>. We sought to quantify causal
+effects of FMD on chronic kidney disease (CKD) in a two-sample Mendelian
+randomization study with GWAS summary statistics. We used genetic
+instruments for FMD from a meta-analysis of six genome-wide association
+studies of multifocal FMD<sup>8</sup>. For each putative outcome
+variable, we performed a two-sample Mendelian randomization analysis
+with inverse-variance weighted, weighted median, MR-Egger, weighted
+mode, and simple mode methods. We obtained association effect estimates
+for putative outcomes from publicly available summary statistics from UK
 Biobank GWAS<sup>9</sup>. We considered three different p-value
-thresholds ($10^{-8}$, $10^{-7}$, $10^{-6}$) when choosing relevant SNP
-instruments for the MR analyses. All five methods showed no evidence of
-a causal effect of FMD on chronic kidney disease. To further investigate
-our findings, we performed sensitivity analyses in efforts to assess
-evidence of horizontal pleiotropy and other sources of
+thresholds when choosing relevant SNP instruments for MR analyses. All
+five methods showed no evidence of a causal effect of FMD on CKD. To
+further evaluate our findings, we performed sensitivity analyses to
+assess evidence of horizontal pleiotropy and other sources of
 confounding<sup>10,11</sup>.
 
 ## References
