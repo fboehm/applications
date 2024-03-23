@@ -1,3 +1,6 @@
 [submodule "nih-biosketch"]
 	path = nih-biosketch
 	url = https://github.com/fboehm/nih-biosketch.git
+[submodule "freeman-hhmi"]
+	path = freeman-hhmi
+	url = https://github.com/fboehm/freeman-hhmi
