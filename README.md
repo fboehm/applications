@@ -5,6 +5,14 @@ materials for competitive applications
 I don't finish every application that I start. Put a new competition in a new subdirectory.
 
 
+## lists of funding opportunities
+
+https://researchservices.cornell.edu/resources/early-career-funding
+
+
+
+
+
 ## NIH Peer Reviewer for early career scientists: https://public.csr.nih.gov/ForReviewers/BecomeAReviewer/ECR
 
 ECR Qualifications
