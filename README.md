@@ -11,7 +11,7 @@ https://researchservices.cornell.edu/resources/early-career-funding
 
 ### William T Grant FOundation: https://wtgrantfoundation.org/funding/william-t-grant-scholars-program
 
-
+> The William T. Grant Scholars Program supports career development for promising early-career researchers. The program funds five-year research and mentoring plans that significantly expand researchers’ expertise in new disciplines, methods, and content areas
 
 
 
